@@ -2,9 +2,6 @@
 ## Reference Book: Matlab Version by Kevin Berwick, School of Electrical and Electronic Engineering, Dublin Institute of Technology
 ## Translated to Python by Indranil Ghosh, Physics Department, Jadavpur University
 
-## Solution of Laplace's equation for a finite sized capacitor
-## We need to download and activate the plot3D package
-
 ## Chaotic tumbling of Hyperion
 from mpmath  import *
 import random, pygame, sys
