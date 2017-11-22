@@ -26,7 +26,7 @@ DISPLAYSURF.fill(WHITE)
 X=[1]
 Y=[0]
 Vx=[0]
-Vy=[2*Pi]
+Vy=[2*Pi] # 2*Pi for circular and 5 for elliptical
 theta=[0]
 omega=[0]
 T=[0]
